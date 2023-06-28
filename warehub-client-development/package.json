@@ -1,0 +1,32 @@
+{
+  "name": "warehub-client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.19",
+    "@chakra-ui/react": "^2.6.1",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@react-icons/all-files": "^4.1.0",
+    "chart.js": "^4.3.0",
+    "eslint": "^8.41.0",
+    "eslint-config-next": "^13.4.3",
+    "framer-motion": "^10.12.12",
+    "next": "^13.4.3",
+    "next-connect": "^1.0.0",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "react-router-dom": "^6.11.2",
+    "react-scroll": "^1.8.9"
+  }
+}
